@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails timesheets: development" uuid="4237b685-b4f3-4f87-98c4-ba11be5edd54">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$USER_HOME$/RubymineProjects/timesheets/db/development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
       <libraries />
     </data-source>
   </component>
